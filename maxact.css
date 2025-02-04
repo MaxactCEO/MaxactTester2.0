@@ -14,7 +14,6 @@ body {
   heaight: auto;
   align-items: center; /* Centrera innehållet */
   justify-content: center; /* Ytterligare centrering */
-  overflow-x: hidden; /* Förhindra horisontell scrollning */
 }
   
 /* Repost container stilar */
