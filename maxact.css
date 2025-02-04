@@ -1,8 +1,6 @@
 html, body {
-  height: 2000px;
+  height: auto;
   overflow: auto; /* Tillåt skrollning */
-  margin: -10px; /* Ta bort standardmarginaler */
-  padding: -10px; /* Ta bort standardpadding */
 }
 
 /* Grundläggande stil för body */
