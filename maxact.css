@@ -267,7 +267,7 @@ input[type="submit"]:hover {
 /* För att hålla repost-container i layouten även när den är dold */
 #repostContainer {
   margin: 0px center; /* Mellanrum och centrerat */
-  width: 410px;
+  width: 375px;
   height: 850px;
   padding: 15px 0px;
   margin-top: 0px;
